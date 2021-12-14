@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HeshamShahtout/react-test-project/static/css/main.6b651cac.chunk.css",
+    "main.js": "/HeshamShahtout/react-test-project/static/js/main.b2347609.chunk.js",
+    "main.js.map": "/HeshamShahtout/react-test-project/static/js/main.b2347609.chunk.js.map",
+    "runtime-main.js": "/HeshamShahtout/react-test-project/static/js/runtime-main.1ae00cd4.js",
+    "runtime-main.js.map": "/HeshamShahtout/react-test-project/static/js/runtime-main.1ae00cd4.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/HeshamShahtout/react-test-project/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/HeshamShahtout/react-test-project/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/HeshamShahtout/react-test-project/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/HeshamShahtout/react-test-project/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/HeshamShahtout/react-test-project/index.html",
+    "static/css/main.6b651cac.chunk.css.map": "/HeshamShahtout/react-test-project/static/css/main.6b651cac.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/HeshamShahtout/react-test-project/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ae00cd4.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.6b651cac.chunk.css",
+    "static/js/main.b2347609.chunk.js"
+  ]
+}
